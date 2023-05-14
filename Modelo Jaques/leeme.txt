@@ -1,0 +1,6 @@
+Este fichero contiene los datos necesarios para ejecutar un cuaderno de Jupyter, para ejecutarlo
+primero hay que subirlo a Google Drive en nuestra carpeta de Google Colaboratory y ejecutarlo desde
+la herramienta web de Google Drive.
+
+También contiene los ficheros utilizados para entrenar el modelo y con los que obtuvimos los resultados
+de la investigación.
